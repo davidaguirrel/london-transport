@@ -10,5 +10,5 @@ npm install
 ## Using London Transport Discovery
 To use London Transport Discovery, please run:
 ````
-npm run
+npm start
 ````
