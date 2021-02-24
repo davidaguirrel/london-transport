@@ -1,0 +1,17 @@
+.searchForm {
+  text-align: start;
+}
+
+.flexRow {
+  display: flex;
+}
+
+.bikeList {
+  list-style: none;
+  text-align: start;
+}
+
+.noPoints {
+  margin-top: 15px;
+  text-align: start;
+}

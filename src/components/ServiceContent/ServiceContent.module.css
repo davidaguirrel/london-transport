@@ -1,0 +1,8 @@
+.disruptionList {
+  list-style: none;
+  text-align: start;
+}
+
+.disruptionItem {
+  margin-bottom: 5px;
+}

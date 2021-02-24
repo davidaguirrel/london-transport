@@ -1,0 +1,15 @@
+.fullWidth {
+  width: 100%;
+}
+
+.serviceItem {
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  text-align: start;
+  width: 100%;
+}
+
+.serviceItem:not(:last-child) {
+  border-bottom: 1px solid;
+}
